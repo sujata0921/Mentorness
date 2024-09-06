@@ -9,6 +9,8 @@ Key Benefits of the ROLLBACK Command:
 Data Integrity: Ensures that partial changes do not corrupt the database.
 Error Handling: Allows safe reversal of operations if an error is detected.
 Consistency: Maintains the database in a consistent state by undoing incomplete transactions.
+
+Check Video presentation on above mentioned link:
 https://www.linkedin.com/posts/sujata-sharma-6b9a6017_mentorness-databasemanagement-rollbackcommand-activity-7189693148950904834-Tkmb?utm_source=share&utm_medium=member_desktop
 
 **Completed Second Task on Mentorness: COVID-19 Data Analysis Project through SQL Queries**
@@ -25,6 +27,8 @@ Country-Level Insights:
 Identify the country with the highest number of confirmed cases.
 Find the country with the lowest number of death cases.
 List the top 5 countries with the highest number of recovered cases.
+
+Check Video presentation on above mentioned link:
 https://www.linkedin.com/posts/sujata-sharma-6b9a6017_covid19-dataanalysis-mentorness-activity-7192878231048351744-ycEF?utm_source=share&utm_medium=member_desktop
 
 **Completed Third Task on Mentorness: Hotel Aggregator Data Analysis Project**
@@ -56,4 +60,6 @@ Property Type and Room Analysis
 
 **Conclusion**
 This project provided valuable insights into the hospitality industry and improved my data analysis and visualization skills using Power BI. I am grateful to Mentorness for this learning opportunity.
+
+Check Video presentation on above mentioned link:
 https://www.linkedin.com/posts/sujata-sharma-6b9a6017_mentorness-dataanalytics-powerbi-activity-7197074200795209728-bGYR?utm_source=share&utm_medium=member_desktop
